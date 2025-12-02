@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "あなたに",
+  "base_artist": "MONGOL800",
+  "createdAt": "2025-12-02T10:11:57.517852Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あなたに",
+      "artist": "MONGOL800",
+      "has_synced": true,
+      "path": "select/01_あなたに_MONGOL800.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Anata ni [あなたに]",
+      "artist": "MONGOL800",
+      "has_synced": true,
+      "path": "select/02_Anata_ni_[あなたに]_MONGOL800.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あなたに",
+      "artist": "MONGOL800",
+      "has_synced": true,
+      "path": "select/03_あなたに_MONGOL800.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あなたに",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/04_あなたに_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あなたに",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/05_あなたに_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あなたに - Anatani",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/06_あなたに_-_Anatani_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "あなたに",
+      "artist": "Konomi Suzuki",
+      "has_synced": false,
+      "path": "select/07_あなたに_Konomi_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "あなたに",
+      "artist": "Suzuki, Konomi",
+      "has_synced": false,
+      "path": "select/08_あなたに_Suzuki,_Konomi.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "あなたに",
+      "artist": "MONGOL800",
+      "has_synced": true,
+      "path": "select/09_あなたに_MONGOL800.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "あなたに",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/10_あなたに_鈴木このみ.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "あなたに",
+      "artist": "高木さん (高橋李依)",
+      "has_synced": true,
+      "path": "select/11_あなたに_高木さん_(高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "あなたに",
+      "artist": "高木さん(CV.高橋李依)",
+      "has_synced": true,
+      "path": "select/12_あなたに_高木さん(CV.高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "あなたに",
+      "artist": "SunSet Swish",
+      "has_synced": false,
+      "path": "select/13_あなたに_SunSet_Swish.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "あなたに",
+      "artist": "Anzen Chitai",
+      "has_synced": true,
+      "path": "select/14_あなたに_Anzen_Chitai.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "あなたに",
+      "artist": "高木さん",
+      "has_synced": true,
+      "path": "select/15_あなたに_高木さん.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "あなたに",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": false,
+      "path": "select/16_あなたに_高木さん(CV_高橋李依).txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "あなたに",
+      "artist": "平原綾香",
+      "has_synced": false,
+      "path": "select/17_あなたに_平原綾香.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "あなたに-高木さん（CV_高橋李依）",
+      "artist": "高橋李依",
+      "has_synced": true,
+      "path": "select/18_あなたに-高木さん(CV_高橋李依)_高橋李依.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "あなたに",
+      "artist": "Hirahara, Ayaka",
+      "has_synced": false,
+      "path": "select/19_あなたに_Hirahara,_Ayaka.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなたに",
+      "artist": "MONGOL 800",
+      "has_synced": false,
+      "path": "select/pl_01_あなたに_MONGOL_800.txt"
+    }
+  ]
+}
